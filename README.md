@@ -1,6 +1,6 @@
 # nodrive
 
-A new Flutter project.
+Esta es una app demo para la app lectora de mangas online, esta version solo maneja imagenes locales que se colocan el la ruta "assets/mangas/" y permite visualizar en forma de cascada o lateral.
 
 ## Getting Started
 
